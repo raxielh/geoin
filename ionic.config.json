@@ -1,0 +1,7 @@
+{
+  "name": "geoin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
